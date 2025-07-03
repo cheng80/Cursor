@@ -12,5 +12,5 @@ Step 3: Try highlighting all the code with your mouse, then hit Cmd+k or Ctrl+K.
    - Instruct it to change the game in some way (e.g. add colors, add a start screen, make it 4x4 instead of 3x3)
 
 Step 4: To try out cursor on your own projects, go to the file menu (top left) and open a folder.
-''''
+'''
 
